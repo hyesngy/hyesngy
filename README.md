@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hyesngy%20&fontSize=40&fontAlign=15&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hyesngy's　github%20&fontSize=40&fontAlign=25&fontAlignY=40)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyesngy&layout=compact)
 
