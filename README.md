@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hyesngy's　github%20&fontSize=40&fontAlign=25&fontAlignY=40)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyesngy&layout=compact)
+![hyesngy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyesngy&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyesngy&layout=compact)
 
 <!--
 **hyesngy/hyesngy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
