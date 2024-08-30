@@ -1,26 +1,18 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/hyesngy?pet-id=617442804854531631"
-    width="600"
-    height="120"
-  />
-</a>
+<div align="center"> 
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/hyesngy?pet-id=617442804854531631"
+      width="600"
+      height="120"
+    />
+  </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyesngy&layout=compact)
-
-![hyesngy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyesngy&show_icons=true&theme=transparent)
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/hyesngy"
-  width="600"
-  height="300"
-/>
-</a>
-
-
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyesngy&layout=compact)
   
+  ![hyesngy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyesngy&show_icons=true&theme=transparent)
+  
+</div>
+
 <!--
 **hyesngy/hyesngy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
