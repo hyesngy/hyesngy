@@ -5,13 +5,13 @@
 </div>
 <br>
 <div align="center"> 
-  <a href="https://github.com/devxb/gitanimals">
-      <img
-        src="https://render.gitanimals.org/lines/hyesngy?pet-id=617448161517609993"
-        width="100%"
-        height="120"
-      />
-  </a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyesngy&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hyesngy"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
 
 <div align="center">
